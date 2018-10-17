@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Welcome to the Shamix homepage
+                   Welcome to Shamix homepage
                 </div>
 
                 <div class="links">
